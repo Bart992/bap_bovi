@@ -1,0 +1,30 @@
+body{
+    background-color: #f6ff00;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.input{
+    text-align: center;
+    line-height: 50px;
+    width: 600px;
+    height:600px;
+    margin: 0 auto;
+    margin-top: 150px;
+    background-color: #1112ff;
+}
+
+input[type="text"]{
+    padding: 10px;
+}
+
+input[type="submit"]{
+    color: black;
+    background: #f6ff00;
+    margin: 10px;
+    line-height: 2em;
+    padding: 0 4em;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
